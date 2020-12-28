@@ -1,12 +1,10 @@
 # WEB FUZZY PHP
 
-### Web Menampilkan Data Fuzzy Menggunakan PHP
+### Web untuk Menampilkan Data Hasil Kalkulasi Fuzzy Menggunakan PHP
 
 Mata Kuliah: Workshop Teknik Kompilasi
 
-Kelas: 4 D4 Teknik Komputer A
-
-> ##### 4 D4 Teknik Komputer A
+> #### Kelas: 4 D4 Teknik Komputer A
 > - Intan Nur Kumala Dewi \[2210171001\]
 > - Haris Saifudin \[2210171004\]
 > - Satrio Adi \[2210171008\]
